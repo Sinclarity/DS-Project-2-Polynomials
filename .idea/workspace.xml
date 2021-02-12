@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaa5797f-3207-4daf-8903-c5e46427a948" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iQkzTqiHcuVrGYliISPtWUcU1Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Operating Systems/Project1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PolynomialDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolynomialDriver" />
+      <module name="Project2Files(FINISHED)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PolynomialDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaa5797f-3207-4daf-8903-c5e46427a948" name="Default Changelist" comment="" />
+      <created>1601847465766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601847465766</updated>
+      <workItem from="1601847466788" duration="18000" />
+      <workItem from="1601847531310" duration="2210000" />
+      <workItem from="1601855708742" duration="7000" />
+      <workItem from="1601855723153" duration="5000" />
+      <workItem from="1602018031780" duration="127000" />
+      <workItem from="1602172104987" duration="33000" />
+      <workItem from="1602280922988" duration="30000" />
+      <workItem from="1602438085266" duration="24672000" />
+      <workItem from="1602469710788" duration="7595000" />
+      <workItem from="1602512617168" duration="42627000" />
+      <workItem from="1602597016713" duration="3653000" />
+      <workItem from="1602600707078" duration="4000" />
+      <workItem from="1602600962797" duration="40000" />
+      <workItem from="1602602418359" duration="35000" />
+      <workItem from="1602604103937" duration="319000" />
+      <workItem from="1602611610440" duration="540000" />
+      <workItem from="1602612158587" duration="3000" />
+      <workItem from="1602612174640" duration="10000" />
+      <workItem from="1602612193607" duration="2381000" />
+      <workItem from="1602633699772" duration="152000" />
+      <workItem from="1602878516215" duration="40000" />
+      <workItem from="1605803999668" duration="100000" />
+      <workItem from="1606495811330" duration="35000" />
+      <workItem from="1611001661607" duration="620000" />
+      <workItem from="1611010092505" duration="24000" />
+      <workItem from="1611186810308" duration="45000" />
+      <workItem from="1611200580833" duration="195000" />
+      <workItem from="1611946736108" duration="661000" />
+      <workItem from="1612557644777" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
